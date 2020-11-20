@@ -1097,6 +1097,58 @@ testimonials
   }
 }
 
+/*
+Application section
+*/
+
+.literal{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.literal  .box{
+  position: relative;
+  width: 350px;
+  padding: 40px;
+  background: #fff;
+  box-shadow: 0 5px 15px  rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-align: center;
+  background-color: ;
+}
+
+.literal .box .but {
+  display: inline-block;
+  padding: 10px 20px;
+  background:rgb(247, 154, 33);
+  border-radius: 15px;
+  font-weight: bold; 
+  color: #ece2e2;
+    
+  
+}
+.para {
+ 
+ padding-bottom: 1cm;
+ padding-top: 0.5cm; 
+}
+.applicationhead {
+  text-align: center;
+  padding-bottom: 1cm;
+  font-weight: 550;
+
+}
+.applicationhead em {
+  color:#fba70b ;
+  text-decoration: none;
+  font-weight: 550;
+  font-style: normal;
+}
+
 /* 
 ---------------------------------------------
 footer
