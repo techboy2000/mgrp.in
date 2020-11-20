@@ -298,7 +298,7 @@ header
   right: 2cm;
   
   margin-right: 0px;
-  background-color;
+  
   padding: 0px 20px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1118,7 +1118,7 @@ Application section
   box-sizing: border-box;
   overflow: hidden;
   text-align: center;
-  background-color: ;
+  
 }
 
 .literal .box .but {
@@ -1365,7 +1365,7 @@ footer .sub-footer p em {
   .footer-content .right-content {
     color:black;
     text-align: left;
-    font-weight:  ;
+    
 
   }
   
