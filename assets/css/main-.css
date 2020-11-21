@@ -1148,6 +1148,10 @@ Application section
   font-weight: 550;
   font-style: normal;
 }
+.box .content h2 {
+  font-size: 25px;
+  font-weight: 500;
+}
 
 /* 
 ---------------------------------------------
